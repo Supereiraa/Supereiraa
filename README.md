@@ -29,6 +29,7 @@
 
 🔹 [**web-nlwconnect**](https://github.com/Supereiraa/web-nlwconnect) — Projeto em TypeScript desenvolvido durante a NLW  
 🔹 [**imercao-alura-main**](https://github.com/Supereiraa/imercao-alura-main) — Interface inspirada no Spotify criada na Imersão Alura  
+🔹 [**arclands**](https://github.com/Supereiraa/arclands) — Projeto em HTML, CSS e JavaScript focado em criar um lading page parecido com o site original
 
 ---
 

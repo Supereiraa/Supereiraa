@@ -1,12 +1,55 @@
-## Seja bem-vindo, sou a Suelen 👾
+<h1 align="center">👋 Olá, eu sou a Suélen!</h1>
 
-- 💻 Front-end
-- 📚 Estudando React e TypeScript
+<p align="center">
+  🌸 <b>Front-end em formação</b> <br>
+  📚 Estudando <b>React</b> e <b>TypeScript</b> <br>
+  💡 Apaixonada por criar interfaces bonitas e funcionais
+</p>
 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Su-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Su-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Su-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Su-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Su-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+---
+
+### 🧠 Sobre mim
+
+- 🚀 Atualmente focada em aprender e praticar desenvolvimento **Front-end**
+- 🌱 Estudando **React**, **TypeScript** e aprimorando minhas bases em **JavaScript**
+- 🎨 Gosto de explorar design de interfaces e transformar ideias em código
+- 🎧 No tempo livre, adoro ouvir música e experimentar novos layouts
+
+---
+
+### 💻 Tecnologias que estou aprendendo
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,git,github,vscode" />
+</p>
+
+---
+
+### 🌟 Meus repositórios
+
+🔹 [**web-nlwconnect**](https://github.com/Supereiraa/web-nlwconnect) — Projeto em TypeScript desenvolvido durante a NLW  
+🔹 [**imercao-alura-main**](https://github.com/Supereiraa/imercao-alura-main) — Interface inspirada no Spotify criada na Imersão Alura  
+
+---
+
+### ✨ Estatísticas do GitHub
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Supereiraa&show_icons=true&theme=radical&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supereiraa&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 📫 Onde me encontrar
+
+<p align="center">
+  <a href="https://github.com/Supereiraa"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/suelen"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <em>"A cada linha de código, um novo aprendizado 🌱"</em>
+</p>
